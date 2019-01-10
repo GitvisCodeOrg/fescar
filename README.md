@@ -97,3 +97,12 @@ Contributors are welcomed to join the FEATS project. Please check [CONTRIBUTING]
 ## License
 
 FESCAR is under the Apache 2.0 license. See the [LICENSE](https://github.com/alibaba/fescar/blob/master/LICENSE) file for details.
+
+### Code Visualization:
+
+Here is a cool visualization of the code evolution
+
+ [![Watch the video](https://img.youtube.com/vi/i_-EMKg7_yw/0.jpg)](https://www.youtube.com/watch?v=i_-EMKg7_yw)
+
+ [https://www.youtube.com/watch?v=i_-EMKg7_yw](https://www.youtube.com/watch?v=i_-EMKg7_yw)
+
